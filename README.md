@@ -11,13 +11,6 @@ The repository includes both the **business questions** and their **SQL solution
 
 ---
 
-## 📂 Repository Structure
-- `scripts/questions.sql` → Contains all problem statements (Basic, Intermediate, Advanced)  
-- `scripts/solutions.sql` → Contains SQL solutions to the questions  
-- `README.md` → Project overview and documentation  
-
----
-
 ## 🎯 Purpose
 This project highlights:
 - Data aggregation and reporting  
